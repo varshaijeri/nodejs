@@ -1,0 +1,4 @@
+note-app/node_modules
+note-app/bower_components
+note-app/.tmp
+note-app/.vscode
